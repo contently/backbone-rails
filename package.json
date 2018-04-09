@@ -1,0 +1,16 @@
+{
+  "name": "backbone-rails",
+  "version": "1.0.0",
+  "description": "Backbone, Underscore, and some Rails helpers",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contently/backbone-rails.git"
+  },
+  "bugs": {
+    "url": "https://github.com/contently/backbone-rails/issues"
+  },
+  "homepage": "https://github.com/contently/backbone-rails#readme"
+}
